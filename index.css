@@ -1,5 +1,6 @@
 body {
     background-color: black;
     color: white;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
 }
